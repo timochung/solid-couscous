@@ -28,7 +28,7 @@ client = AzureOpenAI(
 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Google_Images_2015_logo.svg/1200px-Google_Images_2015_logo.svg.png)
-![](/./translated_images/bicycle.2f48d52f09c83f183efa9ee7b5e90d9f0327308f24b5e34d0d76f544161ca2e2.ja.png)
+![](./translated_images/bicycle.2f48d52f09c83f183efa9ee7b5e90d9f0327308f24b5e34d0d76f544161ca2e2.ja.png)
 
 
 免責事項：この翻訳はAIモデルによって元の翻訳から翻訳され、完璧であるとは限りません。
