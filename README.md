@@ -21,7 +21,7 @@ client = AzureOpenAI(
     api_key=aoai_key,
     api_version=aoai_version
 )
-
+```
 
 Our Product
 Our product, Automated Repository Management, streamlines software repository tasks. Leveraging advanced language modelling, it automates code organisation, dependency management, and version control. Developers benefit from reduced manual effort, fewer errors, and increased productivity.
@@ -54,7 +54,7 @@ Co-Operator Workflow
 Co-Operator works on another branch, mirroring the main branch. It makes pull requests with documentation translations/code suggestions for developers to approve before merging.
 
 
-```
+
 
 
 
