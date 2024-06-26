@@ -54,7 +54,7 @@ client = AzureOpenAI(
 Co-Operator在另一个分支上工作，镜像主分支。它会提出带有文档翻译/代码建议的拉取请求，供开发人员批准后合并。
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Google_Images_2015_logo.svg/1200px-Google_Images_2015_logo.svg.png)
-![](/./translated_images/bicycle.547f34253a240ce27c764f29923b940b35d5364c2600f371c5659e98dd5b0fe8.zh.png)
+![](./translated_images/bicycle.547f34253a240ce27c764f29923b940b35d5364c2600f371c5659e98dd5b0fe8.zh.png)
 
 
 免责声明：该翻译是由AI模型翻译的原始文本，可能不完美。请查看输出并进行必要的更正。
