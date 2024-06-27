@@ -1,6 +1,6 @@
 # Title Test
 
-Translate this line!!
+Translate this line!
 
 Test of sample code:
 
