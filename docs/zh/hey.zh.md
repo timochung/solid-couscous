@@ -1,4 +1,4 @@
-# 嘿，你好
+d# 嘿，你好
 
 ![](./translated_images/bicycle.18202c7c93df0b5f61d5dc1b665957326aaaf0b2ed907b174a36df586b477991.zh.png)
 数学
