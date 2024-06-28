@@ -1,9 +1,7 @@
 # Title Test
 
-Translate this line!
 
-Test of sample code:
-
+Test of sample code! This is a bug
 ```
 import os
 import dotenv
