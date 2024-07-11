@@ -2,4 +2,4 @@ languages:
 - fr
 - zh
 
-docs_directory: tdocs/
+docs_directory: docs/
