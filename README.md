@@ -54,9 +54,4 @@ Co-Operator Workflow
 Co-Operator works on another branch, mirroring the main branch. It makes pull requests with documentation translations/code suggestions for developers to approve before merging.
 
 
-
-
-
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Google_Images_2015_logo.svg/1200px-Google_Images_2015_logo.svg.png)
 ![](bicycle.png)
